@@ -22,8 +22,9 @@
   <p>🥅 2022 Goals : Enhance my skill and contribute more</p>
 </div>
 
+<!-- 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://portfolio-laxmi124.vercel.app/](https://laxmi-dutta-portfolio.herokuapp.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-laxmi124.vercel.app/) -->
 
 ## 🔗 Connect with me:
 <span align="left">
