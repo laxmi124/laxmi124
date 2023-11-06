@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Laxmi Dutta</h1>
-<h3 align="center">Web developer with a passion for learning and the ability to produce clean, reusable, and optimised code. Building and maintaining MERN-based web apps is something I'm really good at. I'm looking forward to working in a forward-thinking and challenging atmosphere..</h3>
+<h3 align="center">Web developer with a passion for learning and the ability to produce clean, reusable, and optimized code. Building and maintaining MERN-based web apps is something I'm really good at. I'm looking forward to working in a forward-thinking and challenging atmosphere..</h3>
 
 <p align= "center">
 
@@ -19,7 +19,7 @@
    <p> 🌱 I’m currently learning Full Stack Web Development at Masai School.</p>
    <!-- <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p> -->
    <p> 📫 How to reach me duttasuravi225@gmail.com</p>
-  <p>🥅 2022 Goals : Enhance my skill and contribute more</p>
+  <p>🥅 2024 Goals: Enhance my skill and contribute more</p>
 </div>
 
 <!-- 
