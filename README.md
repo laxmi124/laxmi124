@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Laxmi Dutta</h1>
-<h3 align="center">Web developer with a passion for learning and the ability to produce clean, reusable, and optimized code. Building and maintaining MERN-based web apps is something I'm really good at. I'm looking forward to working in a forward-thinking and challenging atmosphere..</h3>
+<h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
 
 <p align= "center">
 
