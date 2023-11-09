@@ -16,10 +16,15 @@
 
 
 <div align="center">
-   <p> 🌱 I’m currently learning Full Stack Web Development at Masai School.</p>
-   <!-- <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p> -->
-   <p> 📫 How to reach me duttasuravi225@gmail.com</p>
-  <p>🥅 2024 Goals: Enhance my skill and contribute more</p>
+👋 Hello there! I'm Laxmi Dutta, a web developer with 1.5 years of experience, passionate about solving problems and building user-centric product-driven websites. 
+🚀 My Journey:
+- Over the past 1.5 years, I've honed my web development skills while working on various projects. I have experience in the MERN stack, which I'm eager to apply to new challenges.
+- My approach to web development is rooted in creating elegant, user-friendly solutions that address real-world problems.
+
+💡 What I Love:
+- I'm driven by a strong passion for crafting intuitive and user-friendly web applications. I believe in the power of design thinking and putting the end-users at the center of the development process.
+- Problem-solving is my forte, and I enjoy tackling complex challenges, whether it's optimizing performance, improving accessibility, or refining the user interface.
+
 </div>
 
 <!-- 
