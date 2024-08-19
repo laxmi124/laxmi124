@@ -18,7 +18,7 @@
 <div align="center">
 👋 Hello there! I'm Laxmi Dutta, a web developer with over 2.5 years of experience, passionate about solving problems and building user-centric product-driven websites. 
 🚀 My Journey:
-- Over the past 1.5 years, I've honed my web development skills while working on various projects. I have experience in the MERN stack, which I'm eager to apply to new challenges.
+- Over the past 2.5 years, I've honed my web development skills while working on various projects. I have experience in the MERN stack, which I'm eager to apply to new challenges.
 - My approach to web development is rooted in creating elegant, user-friendly solutions that address real-world problems.
 
 💡 What I Love:
